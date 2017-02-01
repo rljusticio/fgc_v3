@@ -1,0 +1,205 @@
+CSS Framework
+- Materialize
+
+Colors
+- Material Design White to Black palette
+- Material Design Orange palette
+
+Fonts
+- Roboto
+
+Logo
+- TODO
+
+General Requirements
+- tasteful use of gradients
+- gradient on body
+- sidebar cards with drop shadows
+- editors picks at top of home page
+    - include date, title, and photo
+- thick bars labeling latest news and popular posts section
+    - bars should be same color as navbar
+- two column layout
+
+Header and Navigation
+- bright stripe of color at the top of the page
+- dark gray navbar with white text in all caps
+- logo and tiny tagline in header
+- featured posts images below the header
+- tall header
+
+Posts Loop
+- bright bold post titles
+    - use an eye catching color
+- post info should be light gray in color and a lighter font than body copy
+- comment counter color should compliment header color
+- large image paired with post snippet, positioned above snippet and below post title
+- include media source in post snippet on front page
+- include name of game featured in post snippet
+  - add game name as card title and style appropriately
+- continue reading at the bottom of each post snippet
+
+Sidebar
+- featured posts in sidebar with small images next to each post
+- blog owner photo and bio in sidebar
+- links to social media icon links
+- recent tweets in sidebar?
+- list FGC streams in sidebar and include link to streams page
+
+Post
+- include large post image
+- include post category tag above post title
+- include social media links alongside post info, below post title
+- post title extends across bot columns at the top of the post
+- generous spacing on body content 
+- place filter over image to improve readablility of text
+- white background for post, dark gray gradient background for the body
+- post subhead leads into body content
+    - post subhead in black and bold
+- post title and embedded links same color as post loop article titles
+- social media sharing links below content
+    - twitter, facebook, and reddit
+- author photo in post info
+- include media sources on post page
+
+Streams
+- include list of streams
+- use a table
+- table head should be a bold color with white text
+- rank from most viewers to least viewers
+- include streamer name, stream description, game, and screenshot
+- include 25 streams
+
+Category 
+- include post title paired with post image and post info
+- include smae info that would be included if the post were on the front page
+
+TODO: 1/21/17
+- collect and add photos and appropriate copy
+- add and style post info
+  - number of comments
+  - post snippet.
+  - date and author
+  - media source
+  - game name
+- make nav and loop headers dark gray
+- use a strong red as your main color
+- add stripe of color to top of page
+- style navigation links
+
+TODO: 1/23/17
+- add shadows to objects
+Marvel Infinite Copy
+- Check out the trailer for Capcom's newly announced entry in the historic Marvel fighting game series.
+
+- Get on Fightcade and capture footage to use in cmvs
+
+Web Advice
+- make images and headlines clickable 
+  - add animations
+  
+- make hero smaller
+  - copy the verge design
+  
+- be more consistent with button styles
+  - some buttons are red/white othes are black/blue
+  
+- lighter background color
+
+- menu link names are too generic
+  - list categories out in header
+  - copy
+  - copy navigation from marketingland.com
+  
+- social media buttons ar too big
+  - make them smaller
+  - remove them from the header
+    - you are indirectly encouraging users to leave your website. 
+    - we want them to stay on the website.
+    
+- make all cards in sidebar equal height
+
+Hover Animations
+- on hover have red continue reading sections turn light gray with red text
+
+- use instant replay in videos
+  artful use of replays can really add to your identity and storytelling ability
+  - we don't always need to make up a story
+    - keep in mind that the gameplay itself also tells a story
+
+- what genres will I use
+  - early 90s hip hop
+  - house music
+  - modern hip hop
+  - jazz fusion
+  - rock
+    - what kinds of rock music?
+      - none
+      
+  - electronic dance music
+    - hurfyd
+    - ooukfunkyoo
+    - whatever cool music I run across
+    - I need to be looking for new music
+    - where can I find ne music?
+      - youtube
+      - soundcloud
+      - reddit
+      
+  - what kinds of videos woll I make
+    - music videos
+      - what kinds of music videos?
+        - artistic montages
+        - the things I've been making in my head for years
+        - treat it like real filmmaking
+        - don't be afraid to shine
+        
+        - must include branding and links to social madia in video
+        - what else must be in the video?
+          - emotion
+          - information
+          - song title and artist
+          - a message
+            - what is the message?
+              - I have to write before I make these videos
+                - what's the writing process?
+                  - gather footage
+                  - observe and comment
+                  - use comments to form a thesis
+                  - create combo music video essay with thesis
+                  - how do I write a video essay?
+                    - learn how to write video essays
+                      - maintaining the blog will give me plenty of writing practice
+                      - read writing future stories
+                      - read gary varnerchuk
+                      - chop up close finals matches 
+                      - finals have the hype that we want
+                        - repost finals from major tournaments from years ago
+                        - there is a ton of footage to comb through
+                      - document fgc video history
+                      - look up magazine style websites
+                        - what do they look like?
+                        - what kinds of images do they use
+                        - 
+                        
+                        
+- look into heavy metal aesthetics
+
+- create two kinds of videos
+  - music videos
+  - highlight reels from competitive play
+  
+- communicate directly with the people through posting about the site's development process
+   - tell them about new features being implemented
+   - ask them what kind of content they would like to see
+   - ask them to report any issuues they run into on the site
+   
+- create a single page application
+  - how do I do this?
+  
+- change "continue reading" to "continue"
+
+- font-size is too large
+
+- modal dropdowns that ajax in new content
+   
