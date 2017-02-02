@@ -202,4 +202,19 @@ Hover Animations
 - font-size is too large
 
 - modal dropdowns that ajax in new content
-   
+
+Additional Changes
+- change aspect ratio on photos to 16:9
+- make sidebar images smaller
+	- copy youtube sidebar design
+	- change navbar size to match twitter and youtube
+	- add icons to nav links
+		- fa-home
+		- fa-mail
+		- fa-archive
+	- copy twitter for overall aesthetic
+	- make featured section 4 3-col sections
+	- add blurred background to 
+
+	- change video height to 56vh
+
